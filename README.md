@@ -20,5 +20,6 @@ Telegram-бот для проведения первичного аудита з
 
 1. Клонировать репозиторий:
    ```bash
-   git clone [https://github.com/jzszu/tg-security-header-bot.git](https://github.com/jzszu/tg-security-header-bot.git)
+      git clone https://github.com/askjjkk/tg-security-header-bot.git
    cd tg-security-header-bot
+      ```
