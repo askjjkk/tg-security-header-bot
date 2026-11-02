@@ -23,3 +23,7 @@ Telegram-бот для проведения первичного аудита з
       git clone https://github.com/askjjkk/tg-security-header-bot.git
    cd tg-security-header-bot
       ```
+
+## Канал автора
+
+Новые проекты и обновления: [askjjkk projects в Telegram](https://t.me/askjjkkproject).
